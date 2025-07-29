@@ -1,3 +1,5 @@
+
+
 # Gemini AI Demo
 <a name="readme-top"></a>
 [![NextJS]][NextJS-url]
@@ -87,3 +89,6 @@ Charles Edwards - [https://charlesae.dev](https://charlesae.dev)
 [screenshot]: https://raw.githubusercontent.com/CharlesAE/gemini-ai-demo/main/screenshots/gemini_banner.jpg
 [desktop]: https://raw.githubusercontent.com/CharlesAE/gemini-ai-demo/main/screenshots/desktop.gif
 [mobile]: https://raw.githubusercontent.com/CharlesAE/gemini-ai-demo/main/screenshots/mobile.gif 
+=======
+# AI-INTEGRATED-PERSONAL-ASSISTANT
+
